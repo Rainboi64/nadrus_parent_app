@@ -1,0 +1,16 @@
+{
+  "app_name": "Nadrus: Parent App",
+  "done": "Done",
+  "next": "Next",
+  "detect_tenant_title": "detect_tenant_title",
+  "detect_tenant_description": "detect_tenant_description",
+  "login_title": "login title",
+  "login_description": "login description",
+  "username": "Username",
+  "parent_username": "Parent Username",
+  "password":"Password",
+  "forgot_password": "Forgot your password?",
+  "sign_in": "Sign in",
+  "welcome" : "Welcome {model}  \uD83D\uDC4B",
+  "home": "Home"
+}
